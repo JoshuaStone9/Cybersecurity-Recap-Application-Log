@@ -31,6 +31,8 @@ Effective risk management ensures:
 ## Reflection
 Risk management clarified the connection between technical security and business outcomes.
 
+## Completed 18/11/25 
+
 ## Next Steps
 -  Study ISO 27005 risk management framework.  
 -  Practise mapping risks to controls in Excel.  
