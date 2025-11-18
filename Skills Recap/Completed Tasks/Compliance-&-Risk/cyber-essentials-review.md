@@ -86,18 +86,12 @@
 
 ## 4. Document Findings
 
-  ---------------------------------------------------------------------------
-  Control Area          Status       Evidence        Gaps       Actions
-  --------------------- ------------ --------------- ---------- -------------
-  Firewalls             ALL OK           Rule            None       
-                                     screenshots                
+  Control Area          
+  Status      
+  Evidence       
+  Gaps       
+  Actions
 
-  Secure Config         !CRITICAL!           Build guide     No         Update
-                                                     baseline   baseline
-
-  Patch Mgmt            !WARNING!           Intune report   12 overdue Enforce
-                                                     devices    updates
-  ---------------------------------------------------------------------------
 
 ## 5. Create an Action Plan
 
