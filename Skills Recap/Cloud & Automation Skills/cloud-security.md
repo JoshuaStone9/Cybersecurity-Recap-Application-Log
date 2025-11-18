@@ -4,7 +4,7 @@
 Cloud security focuses on protecting data, workloads, and infrastructure hosted in cloud environments.  
 For AWS-based systems, it ensures that configurations, access, and data storage remain secure against internal and external threats.
 
-## Core Skills Recapped
+## Core Skills Recap
 - **Shared Responsibility Model:** Understanding AWS’s division of security responsibilities.  
 - **Identity & Access Management (IAM):** Applying least-privilege policies, MFA, and role-based access.  
 - **Data Encryption:** Using **AWS KMS** and **S3 encryption** for data at rest and **TLS** for data in transit.  
@@ -12,7 +12,7 @@ For AWS-based systems, it ensures that configurations, access, and data storage 
 - **Network Security:** Designing secure VPCs and applying Security Groups and NACLs effectively.  
 - **Incident Response:** Leveraging AWS tools to isolate, investigate, and remediate security events.
 
-## Tools Used
+## Tools To Be Used
 - **AWS Management Console / CLI** – Configuration and access control.  
 - **AWS IAM, GuardDuty, Config, CloudTrail** – Monitoring and governance.  
 - **AWS KMS** – Encryption management.  

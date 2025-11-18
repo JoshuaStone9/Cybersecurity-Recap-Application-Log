@@ -11,17 +11,17 @@ Automation reduces manual errors and improves scalability, consistency, and comp
 - **Event-Driven Responses:** Using CloudWatch and SNS for alerts.  
 - **Version Control:** Managing IaC scripts via Git for auditability.
 
-## Tools Used
+## Tools To Use
 - **Terraform / AWS CloudFormation** – IaC frameworks.  
 - **AWS Lambda / Boto3 (Python SDK)** – Custom automation.  
 - **CloudWatch / SNS** – Monitoring and alert automation.  
 - **GitHub Actions** – CI/CD integration.
 
 ## Practical Application / Lab Work
-- Deployed a reproducible AWS lab using Terraform templates.  
-- Automated daily EBS snapshot creation.  
-- Configured Lambda function to auto-remediate public S3 buckets.  
-- Created compliance dashboards with AWS Config.
+- Deploy a reproducible AWS lab using Terraform templates.  
+- Automate daily EBS snapshot creation.  
+- Configure Lambda function to auto-remediate public S3 buckets.  
+- Create compliance dashboards with AWS Config.
 
 ## SBS Relevance
 For SBS, automation can:  
@@ -34,6 +34,6 @@ Automation strengthens governance and operational efficiency.
 The key lesson: script with security in mind.
 
 ## Next Steps
-- ✅ Build a Terraform module for automated VPC creation.  
-- ✅ Learn event-driven automation using CloudTrail triggers.  
-- ✅ Study AWS Config and Security Hub integrations.
+-  Build a Terraform module for automated VPC creation.  
+-  Learn event-driven automation using CloudTrail triggers.  
+-  Study AWS Config and Security Hub integrations.

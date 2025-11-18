@@ -12,7 +12,7 @@ It supports hybrid architectures and enforces segmentation for defence in depth.
 - **Load Balancing:** AWS ALB/NLB configurations for high availability.  
 - **Monitoring Traffic:** Using VPC Flow Logs and CloudWatch metrics.
 
-## Tools Used
+## Tools To Be Used
 - **AWS VPC / Route 53 / CloudWatch** – Core networking services.  
 - **AWS CLI** – Configuration and testing.  
 - **Wireshark / Nmap** – Packet and port testing tools.  
