@@ -10,16 +10,16 @@ It transforms raw data into actionable insights that help prevent, detect, and r
 - **Threat Modelling:** Using frameworks like **MITRE ATT&CK** and **STRIDE** to assess risk.  
 - **Reporting & Communication:** Translating technical findings into executive summaries.
 
-## Tools Used
+## Tools To Be Used
 - **Maltego / SpiderFoot** – OSINT and link analysis.  
 - **MISP** – Threat intelligence sharing platform.  
 - **VirusTotal** – Malware hash lookup.  
 - **MITRE ATT&CK Navigator** – Mapping attacker tactics.
 
 ## Practical Application / Lab Work
-- Collected OSINT data for simulated phishing domains.  
-- Mapped vulnerabilities to MITRE ATT&CK techniques.  
-- Created mock threat-intel briefs summarising adversary behaviour trends.
+- Collect OSINT data for simulated phishing domains.  
+- Map vulnerabilities to MITRE ATT&CK techniques.  
+- Create mock threat-intel briefs summarising adversary behaviour trends.
 
 ## SBS Relevance
 Threat intelligence enables SBS to stay ahead of risks such as:  

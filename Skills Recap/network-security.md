@@ -5,7 +5,7 @@ Network security focuses on protecting data, services, and devices as they move 
 It ensures confidentiality, integrity, and availability (the **CIA triad**) of communications across local, cloud, and hybrid environments.  
 Strong network security forms the backbone of all cybersecurity operations — preventing unauthorised access, disruption, and data leakage.
 
-## Core Skills Recapped
+## Core Skills Recap
 Throughout my degree and ongoing practice, I have strengthened and refreshed skills in:
 - **Network Design & Topology:** Understanding how segmentation, VLANs, and firewalls isolate sensitive systems.  
 - **Firewall & Access Control Management:** Configuring and testing ACLs, NAT, and security zones.  
@@ -14,7 +14,7 @@ Throughout my degree and ongoing practice, I have strengthened and refreshed ski
 - **Wireshark Analysis:** Capturing and analysing packets to identify anomalies, unencrypted traffic, or misconfigurations.  
 - **Zero Trust & Defence in Depth:** Applying layered security strategies to reduce attack surfaces.  
 
-## Tools Used
+## Tools To Be Used
 - **Wireshark** – Packet analysis and network troubleshooting.  
 - **pfSense / Cisco Packet Tracer** – Firewall and network topology simulation.  
 - **Nmap** – Network discovery and port auditing.  
@@ -38,7 +38,7 @@ For **SBS Insurance Services**, network security is vital because:
 - Continuous monitoring ensures **data integrity and compliance** with **GDPR** and **ISO 27001** standards.
 
 ## Reflection
-Revisiting these concepts reinforced the importance of designing secure networks from the ground up rather than treating them as an afterthought.  
+Revisiting these concepts reinforce the importance of designing secure networks from the ground up rather than treating them as an afterthought.  
 I’ve developed a stronger appreciation for:
 - The balance between performance and protection.  
 - The need for visibility through logging and monitoring.  

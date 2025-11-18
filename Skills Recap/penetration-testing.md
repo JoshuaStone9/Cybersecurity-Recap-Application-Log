@@ -4,15 +4,15 @@
 Penetration testing involves simulating cyberattacks to identify and exploit vulnerabilities within networks, applications, or systems — helping organisations strengthen their defences before real attackers can exploit them.  
 It forms a key part of proactive cybersecurity and risk management, ensuring compliance with standards such as **ISO 27001**, **NIST**, and **GDPR Article 32** (security of processing).
 
-## Core Skills Recapped
-During my degree and ongoing practice, I developed and have since revisited the following areas:
+## Core Skills Recap
+During my degree and ongoing practice, I developed and going to revisit the following areas:
 - **Reconnaissance and Enumeration:** Using tools such as **Nmap**, **Dirbuster**, and **theHarvester** to gather open-source intelligence (OSINT) and map network surfaces.  
 - **Vulnerability Scanning:** Conducting scans with **OpenVAS** or **Nessus** to identify misconfigurations and outdated software.  
 - **Exploitation:** Practising safe exploitation within controlled lab environments using **Metasploit** and manual techniques.  
 - **Privilege Escalation:** Understanding Windows and Linux privilege paths and post-exploitation techniques.  
 - **Reporting:** Creating structured vulnerability reports that include risk ratings, business impact, and remediation advice.
 
-## Tools Used
+## Tools To Be Used
 - **Kali Linux** – Primary testing environment.  
 - **Nmap** – Network discovery and port scanning.  
 - **Metasploit Framework** – Exploitation and payload testing.  
@@ -35,7 +35,7 @@ Penetration testing skills are directly relevant to:
 - Supporting compliance with **GDPR** and **ISO 27001** through regular security assessments.
 
 ## Reflection
-Recapping these skills has reinforced the importance of approaching tests methodically, documenting every finding, and considering business impact as well as technical severity.  
+Recapping these skills will reinforce the importance of approaching tests methodically, documenting every finding, and considering business impact as well as technical severity.  
 Moving forward, I aim to:
 - Deepen my manual web-application testing skills.  
 - Gain greater familiarity with cloud-specific testing (AWS Inspector, ScoutSuite).  

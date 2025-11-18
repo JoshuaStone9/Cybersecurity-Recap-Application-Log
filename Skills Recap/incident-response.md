@@ -4,7 +4,7 @@
 Incident response (IR) involves preparing for, detecting, containing, and recovering from cybersecurity incidents.  
 The goal is to minimise damage, reduce recovery time, and maintain business continuity. Effective IR follows structured frameworks such as **NIST 800-61**, **ISO 27035**, and the **SANS Incident Response Lifecycle**.
 
-## Core Skills Recapped
+## Core Skills Recap
 - **Preparation:** Developing response plans, communication channels, and asset inventories.  
 - **Identification:** Recognising suspicious activity using logs, alerts, or anomaly detection.  
 - **Containment:** Isolating affected systems to prevent spread.  
@@ -12,7 +12,7 @@ The goal is to minimise damage, reduce recovery time, and maintain business cont
 - **Recovery:** Restoring services securely and verifying normal operations.  
 - **Post-Incident Review:** Analysing root causes and improving defences.
 
-## Tools Used
+## Tool To Use
 - **SIEM tools (Splunk, ELK)** – Log collection and analysis.  
 - **Wireshark** – Network traffic inspection.  
 - **Volatility / Autopsy** – Memory and forensic analysis.  
@@ -20,9 +20,9 @@ The goal is to minimise damage, reduce recovery time, and maintain business cont
 - **Incident response playbooks** – Structured workflows for common attack types.
 
 ## Practical Application / Lab Work
-- Simulated phishing and ransomware scenarios to practise containment and recovery.  
-- Conducted log analysis using Splunk to identify anomalies.  
-- Built an IR report template including timeline, impact, and lessons learned.  
+- Simulate phishing and ransomware scenarios to practise containment and recovery.  
+- Conduct log analysis using Splunk to identify anomalies.  
+- Build a IR report template including timeline, impact, and lessons learned.  
 
 ## SBS Relevance
 SBS Insurance Services handles large volumes of personal data across cloud and internal systems.  
@@ -32,7 +32,7 @@ An effective IR process ensures:
 - Protection of customer trust and company reputation.
 
 ## Reflection
-Recapping incident response has highlighted the importance of readiness and documentation.  
+Recapping incident response should highlight the importance of readiness and documentation.  
 Clear communication and defined roles during an incident are as critical as technical actions.
 
 ## Next Steps

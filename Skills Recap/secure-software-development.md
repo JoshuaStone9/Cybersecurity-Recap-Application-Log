@@ -4,22 +4,22 @@
 Secure Software Development (SSD) focuses on embedding security throughout the software lifecycle — from design to deployment.  
 It ensures applications are resilient against vulnerabilities like injection, XSS, and authentication flaws.
 
-## Core Skills Recapped
+## Core Skills Recap
 - **Secure Coding Practices:** Avoiding input validation flaws and weak authentication.  
 - **Code Review & Static Analysis:** Using SAST tools to detect insecure code.  
 - **OWASP Top 10 Awareness:** Understanding and mitigating common web risks.  
 - **DevSecOps Integration:** Embedding security in CI/CD pipelines.
 
-## Tools Used
+## Tools To Use
 - **OWASP ZAP / Burp Suite** – Application testing.  
 - **SonarQube / Bandit** – Static code analysis.  
 - **GitHub Actions / Jenkins** – CI/CD integration.  
 - **Docker / Kubernetes** – Secure container deployment.
 
 ## Practical Application / Lab Work
-- Developed a simple web app and applied OWASP best practices.  
-- Integrated automated security scans into a GitHub pipeline.  
-- Reviewed vulnerable applications (DVWA, Juice Shop).
+- Develop a simple web app and applied OWASP best practices.  
+- Integrate automated security scans into a GitHub pipeline.  
+- Review vulnerable applications (DVWA, Juice Shop).
 
 ## SBS Relevance
 SBS relies on secure web portals and APIs for claim handling.  

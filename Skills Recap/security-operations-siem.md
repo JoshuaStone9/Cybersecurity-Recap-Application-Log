@@ -10,16 +10,16 @@ Security Information and Event Management (SIEM) tools centralise logs and alert
 - **Incident Triage:** Prioritising alerts by severity and context.  
 - **Automation:** Using playbooks and scripts to speed up response.
 
-## Tools Used
+## Tools To Be Used
 - **Splunk / ELK Stack** – Log collection and analysis.  
 - **Azure Sentinel / AWS CloudWatch** – Cloud SIEM platforms.  
 - **Security Onion** – Network traffic and IDS correlation.  
 - **SOAR platforms** – Automated playbook execution.
 
 ## Practical Application / Lab Work
-- Created custom Splunk dashboards visualising login anomalies.  
+- Create custom Splunk dashboards visualising login anomalies.  
 - Ingested Sysmon logs to detect privilege escalation attempts.  
-- Built test alerts and tuned false positives.
+- Build test alerts and tuned false positives.
 
 ## SBS Relevance
 SBS can leverage SIEM systems to:  

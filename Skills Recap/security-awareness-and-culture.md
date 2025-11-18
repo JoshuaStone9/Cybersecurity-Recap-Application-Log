@@ -29,7 +29,7 @@ A strong security culture ensures:
 - Compliance with GDPR’s accountability principles.
 
 ## Reflection
-Revisiting this topic reminded me that technology can’t secure a business alone — people must be engaged and aware.
+Revisiting this topic will remind me that technology can’t secure a business alone — people must be engaged and aware.
 
 ## Next Steps
 -  Build a small-scale phishing simulation lab.  
