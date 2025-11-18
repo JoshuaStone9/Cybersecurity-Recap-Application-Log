@@ -12,7 +12,7 @@ It enables businesses to manage uncertainty while maintaining operational resili
 - **Audit & Reporting:** Preparing for internal and external compliance reviews.
 
 ## Tools To Be Used
-- **Risk matrices / spreadsheets** – Probability vs. impact scoring.  
+- **Risk matrices / spreadsheets** – Probability vs. impact scoring  
 - **ISO 27001 gap analysis templates.**  
 - **Compliance trackers / Power BI dashboards.**  
 
