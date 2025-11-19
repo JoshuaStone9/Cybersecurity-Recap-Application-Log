@@ -19,6 +19,6 @@ Completing a mock risk assessment for the AWS Marketplace Management Portal help
 
 This kind of practical exercise strengthens my ability to apply the same process confidently and accurately when performing actual day-to-day tasks at SBS.
 
-### What skill should I reinforce tomorrow?
+### What skill should I reinforce tommorow?
 
 Reflect On Skills Represented In Today's Session To Reinforce & Carry On With Other Skill Recap Tasks
