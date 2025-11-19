@@ -4,7 +4,7 @@
 Scripting enables repeatable and efficient execution of security and administrative tasks.  
 In AWS, scripting complements automation by managing logs, resources, and compliance at scale.
 
-## Core Skills Recapped
+## Core Skills Recapped & Gained
 - **PowerShell & Bash:** Automating system configurations.  
 - **Python (Boto3):** Managing AWS resources via scripts.  
 - **Log Analysis:** Parsing CloudTrail and SIEM logs.  
@@ -16,8 +16,10 @@ In AWS, scripting complements automation by managing logs, resources, and compli
 - **AWS CLI** – Command-line resource management.  
 - **Crontab / Task Scheduler** – Routine job execution.
 
+## YET TO BE COMPLETED
+
 ## Practical Application / Lab Work
-- Built Python scripts to audit IAM roles and policies.  
+- Build Python scripts to audit IAM roles and policies.  
 - Automated log downloads from CloudTrail for local analysis.  
 - Created PowerShell scripts to manage EC2 tagging and patching.  
 - Integrated scripts with GitHub for version control.
@@ -32,7 +34,11 @@ SBS can leverage scripting to:
 Scripting turns routine tasks into reliable, automated processes.  
 It boosts efficiency and reduces security gaps.
 
+
+## Partially Completed (Except Practical Work) 19/11/25 
+
+
 ## Next Steps
-- ✅ Expand Python AWS automation skills.  
-- ✅ Learn JSON/YAML handling for IaC integration.  
-- ✅ Combine scripting with vulnerability scanning automation.
+- Expand Python AWS automation skills.  
+-  Learn JSON/YAML handling for IaC integration.  
+-  Combine scripting with vulnerability scanning automation.

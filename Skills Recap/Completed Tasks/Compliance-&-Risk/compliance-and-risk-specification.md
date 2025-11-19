@@ -4,7 +4,7 @@
 Compliance and risk management ensure that cybersecurity activities align with legal, regulatory, and organisational standards.  
 It enables businesses to manage uncertainty while maintaining operational resilience and trust.
 
-## Core Skills Recap
+## Core Skills Recapped & Gained
 - **Risk Assessment:** Identifying threats, vulnerabilities, and impacts.  
 - **Control Frameworks:** Understanding ISO 27001, NIST, and CIS controls.  
 - **Regulatory Compliance:** GDPR, PCI DSS, and UK Data Protection Act.  
