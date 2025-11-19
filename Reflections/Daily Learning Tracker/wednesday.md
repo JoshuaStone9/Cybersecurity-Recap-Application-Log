@@ -38,7 +38,7 @@ Today's learning directly strengthens your ability to:
 These are high-value, real-world skills that SBS environments depend on to stay secure, efficient, and scalable with limited resources.
 
 
-### What skill should I reinforce tomorrow?
+### What skill should I reinforce tommorow?
 
 Reflect On Skills Represented In Today's Session To Reinforce & Carry On With Other Skill Recap Tasks.
 
