@@ -25,7 +25,7 @@ Understanding security automation tools like GuardDuty, Sentinel, and Splunk ena
 
 I learned how automated patching tools like Patch Manager, Update Manager and Automox streamline updates across systems, reduce security risks, minimise downtime and generate compliance reports. This is crucial for SBS environments to stay secure and meet insurance and compliance requirements.
 
-Overall Summary
+#### Overall Summary
 
 Today's learning directly strengthens your ability to:
 
